@@ -6,6 +6,30 @@
 
 ###
 
+```dart
+import 'dev-community:india/flutter-devs'; 
+class Desc extends SoftwareDeveloper {
+  static final String name = "Om Trivedi";
+  dynamic title = "Flutter Developper";
+  dynamic location = "Gujarat, India";
+  @override
+  getSkills()    
+    List<Skills> languages  = [ 'C', 'C++', 'Dart', 'PHP' ];
+    List<Skills> software  = [ 'Android Studio', 'figma', 'Adobe Premiere Pro' , 'Adobe Photoshop'];
+    List<Skills> tools  = [ 'Flutter' , 'Firebase' , 'Local Database'];
+  }
+}
+```
+
+
+```css
+
+- 🔭 I'm currently working on Flutter Application Development...
+
+- 💬 Ask me about anything which confused you in DSA or FLUTTER
+
+- 📫 How to reach me **omtrivedi460@gmail.com**
+```
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />

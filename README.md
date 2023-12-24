@@ -9,7 +9,7 @@
 ```dart
 import 'dev-community:india/flutter-devs'; 
 class Desc extends SoftwareDeveloper {
-  static final String name = "Om Trivedi";
+  static final String name = "Anurag Kanade";
   dynamic title = "Flutter Developper";
   dynamic location = "Gujarat, India";
   @override
@@ -31,10 +31,10 @@ class Desc extends SoftwareDeveloper {
 - 📫 How to reach me **omtrivedi460@gmail.com**
 ```
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://www.youtube.com/channel/UCdhsvMonEokg0uZQ6i2UAow" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://kanadeanurag87@gmail.com" height="35" alt="gmail logo"  />
+  <img src="https://www.linkedin.com/in/anurag-kanade-b2764629b/" height="35" alt="linkedin logo"  />
 </div>
 
 ###

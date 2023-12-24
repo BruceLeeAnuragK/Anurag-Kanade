@@ -31,7 +31,7 @@ class Desc extends SoftwareDeveloper {
 - 📫 How to reach me **omtrivedi460@gmail.com**
 ```
 <div align="left">
- <a href ="https://www.youtube.com/channel/UCdhsvMonEokg0uZQ6i2UAow"><img src="https://e7.pngegg.com/pngimages/208/269/png-clipart-youtube-play-button-computer-icons-youtube-youtube-logo-angle-rectangle-thumbnail.png" height="35" alt="youtube logo"  /></a> 
+ <a href ="https://www.youtube.com/channel/UCdhsvMonEokg0uZQ6i2UAow"><img src="https://w7.pngwing.com/pngs/24/227/png-transparent-youtube-logo-youtube-text-trademark-logo-thumbnail.png" height="35" alt="youtube logo"  /></a> 
   <a href=""> <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" height="35" alt="discord logo"  /></a>
   <a href ="http: //kanadeanurag87@gmail.com"><img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" height="35" alt="gmail logo"  /></a>
   <a href ="https://www.linkedin.com/in/anurag-kanade-b2764629b/"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" height="35" alt="linkedin logo"  /></a>

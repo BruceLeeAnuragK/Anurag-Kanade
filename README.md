@@ -33,8 +33,8 @@ class Desc extends SoftwareDeveloper {
 <div align="left">
  <a href ="https://www.youtube.com/channel/UCdhsvMonEokg0uZQ6i2UAow"><img src="https://t3.ftcdn.net/jpg/03/00/38/90/360_F_300389025_b5hgHpjDprTySl8loTqJRMipySb1rO0I.jpg" height="35" alt="youtube logo"  /></a> 
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href ="http: //kanadeanurag87@gmail.com"><img src="https://static.dezeen.com/uploads/2020/10/gmail-google-logo-rebrand-workspace-design_dezeen_2364_col_0.jpg" height="35" alt="gmail logo"  /></a>
-  <img src="https://www.linkedin.com/in/anurag-kanade-b2764629b/" height="35" alt="linkedin logo"  />
+  <a href ="http: //kanadeanurag87@gmail.com"><img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" height="35" alt="gmail logo"  /></a>
+  <a href ="https://www.linkedin.com/in/anurag-kanade-b2764629b/"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" height="35" alt="linkedin logo"  /></a>
 </div>
 
 ###
